@@ -2,7 +2,7 @@
 
 # Hey, I'm Haris Riaz 👋
 
-### Junior Developer · Web & Python Enthusiast · Building Cool Stuff
+### MERN & FASTAPI Developer · Web & Python Enthusiast · Building Cool Stuff
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Haris-dev1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haris-riaz)
@@ -66,10 +66,15 @@ haris = {
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🤖 [CodeMind AI](https://github.com/Haris-dev1) | AI-powered coding assistant web app | HTML · CSS · JS · Claude API |
-| 🌐 Coming Soon | More projects in progress... | Python · React |FAST API|
+| # | Project | Description | Tech |
+|---|---------|-------------|------|
+| 🤖 | [CodeMind AI](https://github.com/Haris-dev1/codemind-ai) | AI-powered coding assistant web app | HTML · CSS · JS · Claude API |
+| 🧠 | [Lead-Flow-AI](https://github.com/Haris-dev1/Lead-Flow-Ai) | AI-driven lead management & flow system | TypeScript | MERN 
+| 🛒 | [Ecommerce Website](https://github.com/Haris-dev1/Ecommerece-website-) | Full-featured e-commerce frontend | TypeScript | MERN 
+| 📄 | [AI PDF Intel](https://github.com/Haris-dev1/AI-PDF-iINTEL) | Intelligent PDF analysis powered by AI | JavaScript | FASTAPI
+| ⚡ | [FastAPI CRUD System](https://github.com/Haris-dev1/FAST-API-CRUD-Management-system-) | REST API with full CRUD operations | Python · FastAPI |
+| 🎨 | [Page UX UI Designer](https://github.com/Haris-dev1/page-ux-ui-designer) | UI/UX design system & component page | HTML · CSS |
+| 📋 | [Smart Aggronat Recommendation](https://github.com/Haris-dev1/Smart-Aggronat-Recomendation-System) | Smart recommendation engine system | MERN |
 
 ---
 
